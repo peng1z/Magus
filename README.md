@@ -1,0 +1,2 @@
+# Magus
+This repo is for FUTURE AI BUILDER HACKATHON 2023.
